@@ -9,6 +9,8 @@
 - **Ready to use [React Native Reanimated 2](https://docs.swmansion.com/react-native-reanimated/) Integration**
 - **Native Splash Screen Integration**
   - [React Native Splash Screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- **React Native Paper For UI Components**
+  - [React Native Paper](https://reactnativepaper.com/)
 - **Awesome [React Native Helpers](https://github.com/WrathChaos/react-native-helpers) Integration**
   - Noth Detection Support
   - Better Dimension Helper (Ex: ScreenWidth, ScreenHeight)
