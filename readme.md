@@ -18,7 +18,7 @@
   - [React Native Dynamic Vector Icons](https://github.com/WrathChaos/react-native-dynamic-vector-icons)\
 - **HTTP Network Management**
   - [Axios](https://github.com/axios/axios)\*\*
-  - [Axios Hooks](https://github.com/simoneb/axios-hooks)
+  - [React Query](https://react-query-v3.tanstack.com)
   - API Service with Usage Examples
 - **Built-in Custom Font Implementation**
 
